@@ -1,6 +1,8 @@
 # Receipts — Project Proposal v4
 **Oct 2026 · @0xtitan6**
 
+> **Superseded by [README.md](README.md).** This proposal is kept for history. Where they differ (name, handle, domains, verdict rules, appeals, run integrity, scope), the README is current.
+
 > **Don't trust the take. Check the receipts.**
 
 Receipts is a fact-checking agent swarm on NEAR that anyone can tag on X. It checks claims against primary records, judges them with a jury of attested AI models, and posts a public on-chain receipt proving exactly how every verdict was reached — which models judged, which sources they read, what prompt version ran, and a cryptographic proof that no human touched the output.
